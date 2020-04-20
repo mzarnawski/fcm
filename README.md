@@ -1,3 +1,12 @@
 # fcm
 
-Run python3 find_meteors.py
+Demo project
+
+## Running
+
+Install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meterors.py"
+```
